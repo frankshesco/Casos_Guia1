@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Caso14 {
 
 	public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
+	
 		
 		System.out.print("Ingrese numero: ");
 		int n = sc.nextInt();
@@ -14,6 +15,12 @@ public class Caso14 {
 		
 		System.out.println("----Resultados------");
 		System.out.println("Sumatoria...: " + sumatoria);
+	    
+	    
+
+
+	    
+       
 		
 	
 
